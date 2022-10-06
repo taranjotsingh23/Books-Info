@@ -7,6 +7,12 @@
       "language": "English"
     },
     {
+      "id": "23010",
+      "book-name": "The $100 Startup",
+      "Author": "Chris Guillebeau",
+      "language": "English"
+    },
+    {
       "id": "18",
       "book-name": "A Suitable Boy",
       "Author": "Vikram Seth",
@@ -654,13 +660,13 @@
       "book-name": "Jika Kita Tak Pernah Jadi Apa-Apa",
       "Author": "Alvi Syahrin",
       "language": "Indonesia"
-      },
-       {
+    },
+    {
       "id":"2307",
            "book-name": "The Canterville Ghost",
            "Author": "Oscar Wilde",
            "language": "English"
-    }    
+    },  
     {
       "id": "23675",
       "book-name": " Laws of power ",
@@ -712,19 +718,18 @@
       "book-name": "Who Will cry When You Die",
       "Author": "Robin sharma",
       "language": "English"
-    }.
+    },
     {
        "id":"1205",
        "book-name": "Queen of Fire",   
        "Author": "Devika Rangachari",
        "language": "English"
-       },
-{
+    },
+    {
       "id": "1200",
       "book-name": "Do Epic Shit",
       "Author": "Ankur Warikoo",
       "language": "English"
-
     }
   ]
 }
